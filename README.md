@@ -145,6 +145,9 @@ Search Results: 6
 ```
 
 ---
+## Test Execution Report
+
+![Test Results](assets/test-results.png)
 
 ## Technical Stack
 
